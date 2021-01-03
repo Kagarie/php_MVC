@@ -1,0 +1,32 @@
+h3 {
+    text-align: center;
+}
+#catalogue {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 2em;
+    flex-wrap: wrap;
+}
+
+#plat {
+    border: 2px solid #c42e02;
+    margin: 0 3em 3em 0;
+    padding: 0 20px 0 20px;
+}
+
+
+#lienCatalogue{
+    text-decoration: none;
+    background-color: #c42e02;
+    color: white;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+#lienCatalogue:hover{
+    background-color: white;
+    color: #c42e02;
+    border: solid 1px #c42e02;
+}

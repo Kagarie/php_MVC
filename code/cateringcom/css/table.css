@@ -1,0 +1,56 @@
+h3 {
+    text-align: center;
+}
+
+h4 {
+    font-size: 18px;
+    margin-bottom: 1em;
+    margin-top: 3em;
+}
+
+section {
+    text-align: center;
+}
+
+main {
+    display: inline-block;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 90%;
+    border: 2px solid #000000;
+    margin: 0 auto;
+    margin-bottom: 3em;
+
+}
+
+th, td {
+    height: 10px;
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    vertical-align: bottom;
+
+}
+
+tr:hover {
+    background-color: #cccccc;
+    color: black;
+}
+
+
+th {
+    background-color: #c52e02;
+    color: white;
+    font-size: 18px;
+}
+#table1 td{
+    width: 33%;
+}
+#table2 td {
+    width: 25%;
+}
