@@ -1,6 +1,4 @@
-# PROJET WEB 
-
-## Projet web php natif MVC
+# Projet web php natif MVC
 Projet réalisé en Php mvc. j'utilise une template libre de droits dont le Css (ajouté par moi) n'est pas forcément de qualité. La demande étant principalement du Php je me suis pas trop attardé sur les autres parties.
 
 ### Fonctionnalité
