@@ -6,7 +6,7 @@ Projet réalisé en Php mvc. j'utilise une template libre de droits dont le Css 
 ### Fonctionnalité
 - Inscription
 - Un administrateur peut gérer sont site et ajouter/modifier du contenu facilement
-- Un client peut passer des commandes et l'a modifié
+- Un client peut passer des commandes et la modifier
 
 ### Utilisation d'une template libre de droit 
 #### Ceci et fourni avec le template je le remets ici pour des questions de visibilité
