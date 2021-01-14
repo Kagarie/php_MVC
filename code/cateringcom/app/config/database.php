@@ -7,8 +7,8 @@ class database
 
     private $host = "localhost";
     private $db_name = "Restaurant";
-    private $username = "root";
-    private $password = "2706";
+    private $username = "";
+    private $password = "";
     private $conn;
 
 
